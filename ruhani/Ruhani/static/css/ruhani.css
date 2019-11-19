@@ -1,0 +1,30 @@
+.bd{
+    /* background: black; */
+}
+.navbar{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(44,241,17,0.9948354341736695) 0%, rgba(7,216,255,1) 100%);
+    border-radius:0%;
+    margin-top:0%;
+    padding: 0.6%;
+    
+}
+.navbar-brand{
+    font-size: 40px;
+    margin-right: 40px;
+}
+#menu li a{
+    color:black;
+    font-size: 20px;
+
+
+}
+.jumbotron{
+    margin-bottom: 0.6%;
+    background-color:
+    
+}
+#bis{
+    align-content: center;
+    margin-left: 35%;
+}
